@@ -173,7 +173,7 @@ export default function QuoteForm({ preSelectedProduct = '' }: QuoteFormProps) {
             value={formData.email}
             onChange={(e) => handleChange('email', e.target.value)}
             className={inputStyles('email')}
-            placeholder="your@email.com"
+            placeholder="mayankdangodra2005@gmail.com"
           />
           {errors.email && <p className="text-red-500 text-xs mt-1">{errors.email}</p>}
         </div>

@@ -18,7 +18,7 @@ export const COMPANY = {
   },
   phone1: '+91 81401 10319',
   phone2: '+91 63559 40362',
-  email: 'info@butbhavanienterprises.com',
+  email: 'mayankdangodra2005@gmail.com',
   gst: '24HLXPD1465F1ZW',
   whatsappNumber: '918140110319',
   whatsappMessage: 'Hello But Bhavani Enterprises, I would like to enquire about your products.',
